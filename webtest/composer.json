@@ -1,0 +1,12 @@
+{
+    "name": "steve/webtest",
+    "require": {
+        "monolog/monolog": "^2.2"
+    },
+    "authors": [
+        {
+            "name": "Stefan Nachtnebel",
+            "email": "steve@spotteron.net"
+        }
+    ]
+}
